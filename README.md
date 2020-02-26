@@ -132,3 +132,8 @@ Joe Bernal (12:30pm)
 Austin Quon (12:30pm)   
 Natasha Nainani (3:30pm)  
 
+#### Team 17:
+Julia Sung (12:30pm)   
+Cydney Vicentina (12:30pm)   
+Brielle Bailiwick (12:30pm)  
+Jericho Neo Villareal (3:30pm)
