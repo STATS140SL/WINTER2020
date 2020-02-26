@@ -130,7 +130,8 @@ Aabbeir Roy (12:30pm)
 Lucas Machado (12:30pm)   
 Joe Bernal (12:30pm)   
 Austin Quon (12:30pm)   
-Natasha Nainani (3:30pm)  
+Natasha Nainani (3:30pm)   
+Natalie Robles (12:30pm) 
 
 #### Team 17:
 Julia Sung (12:30pm)   
