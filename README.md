@@ -138,3 +138,18 @@ Julia Sung (12:30pm)
 Cydney Vicentina (12:30pm)   
 Brielle Bailiwick (12:30pm)  
 Jericho Neo Villareal (3:30pm)
+
+#### Team 18:
+
+Nate Barrett (3:30pm)  
+Andrew Ehrenberg  (3:30pm)  
+James Lo  (12:30pm)  
+Tongzi Wu  (12:30pm)   
+Zhicheng Xia  (12:30pm)  
+
+#### Team 19:
+Michael Foster (12:30pm)  
+Ezra Chen (3:30pm)  
+Hao Sun  (3:30pm)  
+Vicky Chen  (3:30pm)  
+Michelle Vang (3:30pm)  
