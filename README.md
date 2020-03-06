@@ -25,7 +25,7 @@ Ashley Scales (12:30pm)
 Jacquelyn Nguyen (12:30pm)   
 Michael Stranieri (12:30pm)   
 
-#### Team 3: Vivian's Minions
+#### Team 3: Vivian's Minions -- LA Restaurants -- (3:30pm)
 
 Isabela Devia (3:30pm)   
 Shirley Mach (3:30pm)   
@@ -109,7 +109,7 @@ Sean Nagler (3:30pm)
 Samuel Ortiz (3:30pm)   
 Anina Roche (3:30pm)  
 
-#### Team 14: Linear Depression 
+#### Team 14: Linear Depression -- Banking -- (3:30pm)
 Huizi Yu (3:30pm)  
 Lizhou Fan (3:30pm)  
 Ruiheng Huang (12:30pm)  
