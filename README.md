@@ -8,7 +8,7 @@ A team may have 4, 5, or 6 members only.  No other combinations are acceptable.
 
 Please identify your team (give it a number and a name) and identify the members of the team in the space below following the given example of a fictitious team zero. <h4>Please also identify your sections if your team is comprised of members from different sections</h4>
 
-#### Team 1: Houston Asterisks  
+#### Team 1: Houston Asterisks  -- baseball (what else...) -- (12:30pm)
 
 Ameer Khan (12:30pm)  
 Bryan Guo (12:30pm)   
@@ -17,7 +17,7 @@ Stephen Chen (3:30pm)
 Alex Veroulis (12:30pm)    
 Colin Rabago (12:30pm)    
 
-#### Team 2: 60% of the Time, It Works Every Time - Income Prediction
+#### Team 2: 60% of the Time, It Works Every Time - Income Prediction -- (12:30pm)
 
 Potragent Phuong (12:30pm)   
 Constantin Flocos (12:30pm)    
@@ -50,7 +50,7 @@ Sarita Lee (3:30)
 Michelle Hsieh (3:30)  
 Antonius Raharja(3:30)  
 
-#### Team 6: Trendsetters -- Coronavirus
+#### Team 6: Trendsetters -- Coronavirus-- (12:30pm)
 
 Keith Atienza (12:30pm)  
 Rebecca Chung (12:30pm)  
@@ -59,7 +59,7 @@ Josh Park (12:30pm)
 Junghwan Park (12:30pm)   
 Krystal Xu (12:30pm)  
 
-#### Team 7: Loading 100% - Traffic
+#### Team 7: Loading 100% - Traffic -- (12:30pm)
 Qiuyi Liu (12:30 pm)  
 Emily Li (12:30 pm)  
 Crystal Qian (12:30 pm)  
@@ -118,7 +118,7 @@ Songhua Wang (3:30pm)
 Chen Jin (3:30pm)  
 
 
-#### Team 15: Puppers or Doggos -- Coronavirus Analysis
+#### Team 15: Puppers or Doggos -- Coronavirus Analysis -- (12:30pm)
 Allison Lin (12:30 pm)  
 Valerie Chen (12:30 pm)   
 Annie Kwon (12:30 pm)  
