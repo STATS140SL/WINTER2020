@@ -34,14 +34,14 @@ Edward Shiang (3:30pm)
 Sarah Truax (3:30pm)    
 Roger Yuan (12:30pm)    
 
-#### Team 4: Vivian Vipers  
+#### Team 4: Vivian Vipers  -- Expedia -- (either time)
 
 Anton Citko (3:30pm)  
 Kendrick Brayman (3:30pm)   
 Karl Elbakian (12:30pm)   
 Ali Heera (3:30pm)   
 
-#### Team 5: Knitting...  
+#### Team 5: Knitting...  -- Coronavirus -- (3:30pm)
 
 Valeria M. Lopez Robles (3:30)  
 Lucas Han (3:30)  
@@ -74,7 +74,7 @@ Yihang Wang (12:30 pm)
 Siyu Liu (12:30 pm)   
 Chia-Lin Tsai (12:30 pm)   
 
-#### Team 9: Error 403
+#### Team 9: Error 403  -- Wine Quality -- (3:30pm)
 Yixin Xu (3:30pm)  
 Qing Chen (3:30pm)  
 Fanru Zhao (3:30pm)   
@@ -88,14 +88,14 @@ Zicong Mo (12:30 pm)
 Haley Rao (12:30 pm)  
 Sooyeon Song (12:30 pm) 
 
-#### Team 11: FBI Most Wanted
+#### Team 11: FBI Most Wanted  -- (3:30pm)
 Leon Huaming Ng (12:30pm)   
 Lium Lin (3:30pm)   
 Ziling Chen (3:30pm)    
 Jiarui Zhou (3:30pm)  
 Hope Safranek (3:30pm)
 
-#### Team 12: I Just Took A DNA Test  
+#### Team 12: I Just Took A DNA Test  -- Census  -- (3:30pm)
 Yixiang Zhang (12:30pm)   
 Matt Matsuo (12:30pm)   
 Zhaoying Chen (12:30pm)   
@@ -103,7 +103,7 @@ Gregory Chang (3:30pm)
 Inyong Lee (3:30pm)   
 Lyu Zhang (3:30pm)   
 
-#### Team 13:  Everyone and Company
+#### Team 13:  Everyone and Company -- Mapping -- (3:30pm)
 Yoni Aboody (3:30pm)  
 Sean Nagler (3:30pm)  
 Samuel Ortiz (3:30pm)   
@@ -147,7 +147,7 @@ James Lo  (12:30pm)
 Tongzi Wu  (12:30pm)   
 Zhicheng Xia  (12:30pm)  
 
-#### Team 19:
+#### Team 19: AirBnB  -- (3:30pm)
 Michael Foster (12:30pm)  
 Wangchen Chen (3:30pm)  
 Hao Sun  (3:30pm)  
