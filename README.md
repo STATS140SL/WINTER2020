@@ -17,7 +17,7 @@ Stephen Chen (3:30pm)
 Alex Veroulis (12:30pm)    
 Colin Rabago (12:30pm)    
 
-#### Team 2: 60% of the Time, It Works Every Time  
+#### Team 2: 60% of the Time, It Works Every Time - Income Prediction
 
 Potragent Phuong (12:30pm)   
 Constantin Flocos (12:30pm)    
@@ -50,7 +50,7 @@ Sarita Lee (3:30)
 Michelle Hsieh (3:30)  
 Antonius Raharja(3:30)  
 
-#### Team 6: Trendsetters
+#### Team 6: Trendsetters -- Coronavirus
 
 Keith Atienza (12:30pm)  
 Rebecca Chung (12:30pm)  
@@ -59,7 +59,7 @@ Josh Park (12:30pm)
 Junghwan Park (12:30pm)   
 Krystal Xu (12:30pm)  
 
-#### Team 7: Loading 100%
+#### Team 7: Loading 100% - Traffic
 Qiuyi Liu (12:30 pm)  
 Emily Li (12:30 pm)  
 Crystal Qian (12:30 pm)  
@@ -67,7 +67,7 @@ Jennifer Zhang (12:30 pm)
 Lucy Zhao (12:30 pm)  
 
 
-#### Team 8: Library 140
+#### Team 8: Library 140 -- Suicide -- (12:30pm)
 Yiduan Ma (12:30 pm)  
 Di Zhu (12:30 pm)   
 Yihang Wang (12:30 pm)   
@@ -82,7 +82,7 @@ Yijing Xiao (3:30pm)
 Yuexiang Luo (3:30pm)   
 Amanda Njauw (3:30pm)
 
-#### Team 10: 50 Shades of Slay
+#### Team 10: 50 Shades of Slay -- AirBnB (prefer 12:30pm)
 Moses Lee (3:30 pm)   
 Zicong Mo (12:30 pm)  
 Haley Rao (12:30 pm)  
@@ -118,14 +118,14 @@ Songhua Wang (3:30pm)
 Chen Jin (3:30pm)  
 
 
-#### Team 15: Puppers or Doggos
+#### Team 15: Puppers or Doggos -- Coronavirus Analysis
 Allison Lin (12:30 pm)  
 Valerie Chen (12:30 pm)   
 Annie Kwon (12:30 pm)  
 Anika Vij (12:30 pm)  
 Adrika Chakraborty (12:30 pm)  
 
-#### Team 16: 
+#### Team 16: ? -- ? (12:30pm)
 Aabbeir Roy (12:30pm)   
 Lucas Machado (12:30pm)   
 Joe Bernal (12:30pm)   
@@ -139,7 +139,7 @@ Cydney Vicentina (12:30pm)
 Brielle Bailiwick (12:30pm)  
 Jericho Neo Villareal (3:30pm)
 
-#### Team 18:
+#### Team 18:  ? -- Air Quality -- (3:30pm)
 
 Nate Barrett (3:30pm)  
 Andrew Ehrenberg  (3:30pm)  
